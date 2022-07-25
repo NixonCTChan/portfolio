@@ -49,7 +49,7 @@
 	/>
 <rect id="_Transparent_Rectangle" style="fill:none;" width="32" height="32"/>
 <defs>
-<linearGradient id="paint1" x1="0" y1="92" x2="185" y2="92" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint1" x1="0" y1="92" x2="75" y2="92" gradientUnits="userSpaceOnUse">
 <stop stop-color="#aa42f5"/>
 <stop offset="1" stop-color="#1947ff"/>
 </linearGradient>
