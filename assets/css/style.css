@@ -1942,25 +1942,7 @@ border-radius: 0 2px 2px 0;
 background-color: var(--purple-crayola);
 }
 
-.skills-icons{
-width:50px;
-z-index:2;
-}
 
-.skills-img:after{
-content: '';
-position:absolute;
-top:0;
-left: 0;
-width:50%;
-height:90px;
-background: rgba(100, 100, 100, 0.5);
-border-radius: 45px 0 0 45px;
-}
-.skills-title h3{
-color: #333;
-margin-top: 0.5rem;
-}
 @media screen and (max-width:990px){
   .skills-container{
   grid-tempLate-columns: repeat(2, 1fr);
