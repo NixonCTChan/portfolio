@@ -1900,11 +1900,9 @@ justify-content:center;
 align-items:center;
 text-align: center;
 grid-gap:1rem;
-padding: 1rem 80px;
 font-size: 1.2rem;
 }
 .skills-box{
-padding: 1rem;
 color: #000;
 cursor:pointer;
 }
