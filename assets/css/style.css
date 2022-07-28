@@ -1909,7 +1909,7 @@ color: #000;
 cursor:pointer;
 }
 .skills-box:hover .skills-img{
-transform: translateX(-20px);
+transform: translateY(-20px);
 }
 
 .skills-title{
@@ -1935,7 +1935,6 @@ transition: .5s;
 content: '';
 position:absolute;
 bottom: 0;
-left: 50%;
 width:100px;
 height:4px;
 border-radius: 0 2px 2px 0;
